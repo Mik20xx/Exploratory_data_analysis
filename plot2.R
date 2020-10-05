@@ -1,5 +1,4 @@
 # Script of graphic - week 2
-# Miguel Gutierrez
 # Plot2.R
 #
 # unzip("exdata_data_household_power_consumption.zip")
